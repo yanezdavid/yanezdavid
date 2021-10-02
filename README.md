@@ -1,4 +1,4 @@
 - Hi, I’m David Yañez.
-- I’m interested in predictive models, AI, and the intersection between ethics and data.
-- I currently conduct analysis and gather data for the American Conservation Coalition to create data-driven environmentalist policy.
+- I’m interested in machine learning, AI, and the intersection between ethics and data science
+- I'm currently at my final year at Seattle University.
 - You may reach me at yanezdavid@seattleu.edu.
