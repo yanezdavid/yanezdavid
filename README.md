@@ -1,4 +1,4 @@
 - Hi, I’m David Yañez.
-- I’m interested in machine learning, AI, and the intersection between ethics and data science
-- I'm currently at my final year at Seattle University.
+- I specialize in computer vision, pose estimation, machine learning, and data science.
+- I'm graduating from Seattle Universit in Spring of 2022.
 - You may reach me at yanezdavid@seattleu.edu.
