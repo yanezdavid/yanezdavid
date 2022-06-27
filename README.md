@@ -1,4 +1,4 @@
-- Hi, I’m David Yañez.
-- I specialize in computer vision, pose estimation, machine learning, and data science.
-- I'm graduating from Seattle Universit in Spring of 2022.
-- You may reach me at yanezdavid@seattleu.edu.
+- Hi, I’m David Yañez
+- I specialize in computer vision, pose estimation, machine learning, and data science
+- Graduate from Seattle University 2022
+- You may reach me at 4yanezd@gmail.com
